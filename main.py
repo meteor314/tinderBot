@@ -3,7 +3,8 @@
 import time
 from selenium import webdriver
 from time import sleep
-from selenium.web
+from selenium.webdriver.chrome.options import Options
+
 
 class TinderBot:
     def init(self):
